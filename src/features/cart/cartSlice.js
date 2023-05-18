@@ -12,4 +12,4 @@ const cartSlice = createSlice({
     initialState,
 })
 
-export default cartSlice
+export default cartSlice.reducer
